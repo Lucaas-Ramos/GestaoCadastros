@@ -24,5 +24,4 @@ Página: https://gestaocad.netlify.app/
 
 3. Após isso, os itens serão cadastrados e armazenados no Local Storage. Caso queira voltar pra página inicial, clique no botão "Voltar":
 ![2021-07-23 (6)](https://user-images.githubusercontent.com/86375264/126843831-6a88c938-8b0d-4085-80e3-4454449b54e7.png)
-
 ![2021-07-23 (10)_LI](https://user-images.githubusercontent.com/86375264/126843844-b5efa62d-4801-4465-a350-dc707129cdbc.jpg)
