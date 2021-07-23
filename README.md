@@ -22,7 +22,7 @@ Página: https://gestaocad.netlify.app/
 ![2021-07-23 (9)_LI](https://user-images.githubusercontent.com/86375264/126843415-441035e8-c8ae-4bc6-91ec-66c8d81f660f.jpg)
 
 
-3. Após isso, os itens serão cadastrados e armazenados no Local Storage. Caso queira voltar pra página inicial, clique no botão "Voltar":
+3. Após isso, uma mensagem na tela indicará que o produto foi cadastrado. Os itens serão mostrados nas abas e armazenados no Local Storage:
 
 ![2021-07-23 (6)](https://user-images.githubusercontent.com/86375264/126843831-6a88c938-8b0d-4085-80e3-4454449b54e7.png)
-![2021-07-23 (10)_LI](https://user-images.githubusercontent.com/86375264/126843844-b5efa62d-4801-4465-a350-dc707129cdbc.jpg)
+![2021-07-23 (2)](https://user-images.githubusercontent.com/86375264/126844202-10acca3a-891c-484c-9d74-650996786374.png)
