@@ -12,4 +12,6 @@ Página: https://gestaocad.netlify.app/
 
 # Funcionalidades:
 
-1. Ao entrar na página inicial, terá dois campos para selecionar. No exemplo, foi selecionado o campo 
+1. Ao entrar na página inicial, terá dois campos para selecionar. No exemplo, foi selecionado o campo "Cadastrar Produto":
+![2021-07-23 (8)_LI](https://user-images.githubusercontent.com/86375264/126843017-b7a931aa-534a-49b9-99be-c5294036f4d1.jpg)
+
