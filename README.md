@@ -44,6 +44,9 @@ Página: https://gestaocad.netlify.app/
 
 
 
-6. 
+6. Por fim, se colocar um CPF válido (apenas números), aparecerá a mensagem de conclusão: 
+
+![2021-07-23 (8)](https://user-images.githubusercontent.com/86375264/126905863-6bf628d7-f113-462b-a545-29a3acfa6816.png)
+
 
 
